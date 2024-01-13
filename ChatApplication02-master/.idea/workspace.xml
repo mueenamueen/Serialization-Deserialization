@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e34f496-38fc-403e-9fe1-a1d7c1a95368" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GDSE 68/ADD/Dependency-injection/Dependency-injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/LAYERED.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/java/org/example/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/java/org/example/ClientFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/java/org/example/ServerFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/resources/view/Client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAYERED/working/Socket-Programming/src/main/resources/view/Server.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2assmI9hguAndt8gbb4EQgQQ0KU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Mueena Mueen/Desktop/ChatApplication02-master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e34f496-38fc-403e-9fe1-a1d7c1a95368" name="Changes" comment="" />
+      <created>1705118778651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705118778651</updated>
+      <workItem from="1705118779670" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
